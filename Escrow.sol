@@ -41,8 +41,7 @@ contract Escrow {
     }
 }
 
-
 //1. escrow is used for the party when one user is sending money to another user
 //2. here "escrow" become the intermediate between this action
 //3. user1 [10ether]  -------> escrow [10ether] -------> user2 [10ether]
-//SPDX-License-Identifier: GPL-3.0
+
